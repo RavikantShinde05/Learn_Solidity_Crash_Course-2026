@@ -6,7 +6,7 @@ Here’s a **clean, modern README.md** suitable for a **Solidity Crash Course (2
 
 ---
 
-# 🚀 Solidity Crash Course (2026)
+# 🚀 Solidity Crash Course (2026):
 
 A **short, practical crash course** to learn **Solidity**, the primary programming language for writing **smart contracts on Ethereum and EVM-compatible blockchains**.
 
@@ -20,7 +20,7 @@ This repository is for **beginners and developers** who want a fast, structured 
 
 ---
 
-## 🧠 What You’ll Learn
+## Contains of this repository:
 
 This crash course covers:
 
@@ -38,7 +38,7 @@ This crash course covers:
 
 ---
 
-## 🛠 Prerequisites
+## 🛠 Prerequisites:
 
 Before starting, you should have:
 
@@ -76,7 +76,7 @@ Before starting, you should have:
 
 ---
 
-## 🧩 Example: Simple Solidity Contract
+## 🧩 Example: Simple Solidity Contract:
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -93,7 +93,7 @@ contract HelloWorld {
 
 ---
 
-## 🔐 Security Notes (Very Important)
+## 🔐 Security Notes (Very Important): 
 
 * Never trust user input
 * Use **checks-effects-interactions** pattern
@@ -111,12 +111,41 @@ contract HelloWorld {
 
 ---
 
-## 📚 Recommended Resources
+Here is an **updated “📚 Recommended Resources” section with official links** that you can directly paste into your `README.md`.
 
-* Solidity Official Docs
-* Ethereum Yellow Paper
-* OpenZeppelin Contracts
-* EIP (Ethereum Improvement Proposals)
+---
+
+## 📚 Recommended Resources: 
+
+Official and trusted resources to deepen your Solidity and Ethereum knowledge:
+
+* **Solidity Official Documentation**
+  [https://docs.soliditylang.org/](https://docs.soliditylang.org/)
+
+* **Ethereum Official Website**
+  [https://ethereum.org/](https://ethereum.org/)
+
+* **Ethereum Developer Documentation**
+  [https://ethereum.org/developers/](https://ethereum.org/developers/)
+
+* **Remix IDE (Official Solidity IDE)**
+  [https://remix.ethereum.org/](https://remix.ethereum.org/)
+
+* **OpenZeppelin Contracts (Security Standard Library)**
+  [https://docs.openzeppelin.com/contracts/](https://docs.openzeppelin.com/contracts/)
+
+* **Ethereum Improvement Proposals (EIPs)**
+  [https://eips.ethereum.org/](https://eips.ethereum.org/)
+
+* **Solidity GitHub Repository**
+  [https://github.com/ethereum/solidity](https://github.com/ethereum/solidity)
+
+* **Hardhat Documentation**
+  [https://hardhat.org/docs](https://hardhat.org/docs)
+
+* **Foundry Documentation**
+  [https://book.getfoundry.sh/](https://book.getfoundry.sh/)
+
 
 ---
 
